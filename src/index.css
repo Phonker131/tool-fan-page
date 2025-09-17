@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+
+.btn {
+  @apply inline-flex items-center gap-2 rounded-md border border-zinc-800 px-4 py-2 text-sm;
+}
+
+.btn-primary {
+  @apply bg-amber-500/10 text-amber-300 ring-1 ring-amber-600/30 hover:bg-amber-500/20;
+}
+
+.btn-ghost {
+  @apply text-zinc-200 hover:bg-zinc-900;
+}
+
+.card {
+  @apply rounded-xl border border-zinc-900 bg-black;
+}

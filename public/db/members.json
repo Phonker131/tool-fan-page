@@ -1,0 +1,81 @@
+{
+    "band": "Tool",
+    "members": [
+    {
+        "name": "Maynard James Keenan",
+        "role": "vocals",
+        "yearsActive": "1990–present",
+        "bio": "Vocalist/lyricist with a dramatic dynamic range; blends introspective and satirical themes across Tool, A Perfect Circle, and Puscifer.",
+        "style": "Cerebral, narrative-driven delivery; layers harmonies and vocal drones over shifting meters; favors long builds and tension–release arcs.",
+        "writing": [
+        "Conceptual, metaphor-heavy lyrics with recurring motifs (shadow, transformation, nature)",
+        "Phrasing that plays against the barline to heighten groove and displacement",
+        "Albums sequenced for flow rather than singles"
+    ],
+        "playing": [
+        "Wide dynamics: whispers → controlled belts",
+        "Multi-tracking for harmonies and call/response textures"
+        ],
+        "performance": "Often positioned near the drums with low lighting; restrained movement that focuses attention on music and visuals rather than front‑man theatrics.",
+        "techniques": ["layered harmonies", "vocal drones", "syncopated phrasing", "melismatic lifts"],
+        "notable": ["Narrative arcs on Lateralus and 10,000 Days", "Counter‑rhythmic vocal phrasing in odd meters"]
+        },
+        {
+        "name": "Adam Jones",
+        "role": "guitar",
+        "yearsActive": "1990–present",
+        "bio": "Guitarist and visual director; architect of the band’s riff structures and cinematic aesthetics.",
+        "style": "Minimalist but heavy; designs riffs as repeating cells that interlock with bass and drums; extensive use of drop‑D and pedal tones.",
+        "writing": [
+        "Riffs that outline odd‑meter grooves with long crescendo arrangements",
+        "Drones/pedal notes to glue harmonic space",
+        "Motivic development through subtle variations"
+    ],
+        "playing": [
+        "Pick attack with palm‑muted chugs, wide vibrato",
+        "Delay/modulation swells, natural harmonics, dissonant intervals"
+        ],
+        "performance": "Statuesque presence; prioritizes ensemble blend and synchronization with the visual show.",
+        "techniques": ["drop‑D riffing", "delay swells", "harmonics", "pedal‑tone drones", "parallel fifths"],
+        "notable": ["Interlocking riff design in ‘Schism’", "Slow‑burn builds and textural breaks"]
+        },
+        {
+        "name": "Justin Chancellor",
+        "role": "bass",
+        "yearsActive": "1995–present",
+        "bio": "Bass guitarist since the Ænima era; melodic lead‑bass voice that often initiates song motifs.",
+        "style": "Percussive, pick‑driven tone with effects; crafts hypnotic ostinatos that anchor polymetric grooves.",
+        "writing": [
+        "Bass motifs as primary hooks",
+        "Counter‑melodies that weave above/below the guitar",
+        "Subdivision games (e.g., 3s over 4, 5s over 4)"
+        ],
+        "playing": [
+        "Tight right‑hand articulation with pick",
+        "Chorus/delay/overdrive layers for width and grit"
+        ],
+        "performance": "Mobile on stage; locks visually with kick and tom patterns.",
+        "techniques": ["pick attack", "chorus & delay", "octave/ring effects", "odd‑meter riffs", "occasional tapping"],
+        "notable": ["Lead‑bass lines in ‘The Pot’ and ‘Pneuma’", "Syncopated hooks that drive arrangements"]
+        },
+    {
+        "name": "Danny Carey",
+        "role": "drums",
+        "yearsActive": "1990–present",
+        "bio": "Drummer known for complex polyrhythms, hybrid acoustic/electronic setup, and expansive percussion vocabulary.",
+        "style": "Rhythmic architecture: stacks of polymeters and metric modulations that evolve across long forms; tom‑led orchestration.",
+        "writing": [
+        "Rhythmic frameworks that other parts lock to",
+        "Layered patterns (5, 7, 9) over 4/4 backbones",
+        "Tabla‑inspired textures and electronic integration"
+        ],
+        "playing": [
+        "Precise ghost notes and flams on snare",
+        "Double‑kick accents used for shape, not constant density"
+        ],
+        "performance": "Commanding but musical; emphasizes dynamics and motif recall across sections.",
+        "techniques": ["polyrhythms", "metric modulation", "paradiddle permutations", "polymeters", "tabla idioms", "hybrid pads"],
+        "notable": ["Layered meters in ‘Lateralus’", "Orchestrated tom patterns and cyclical builds"]
+        }
+        ]
+}

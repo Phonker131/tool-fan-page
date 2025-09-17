@@ -1,0 +1,80 @@
+{
+    "artist": "Tool",
+    "albums": [
+        {
+        "id": "undertow",
+        "title": "Undertow",
+        "year": 1993,
+        "coverGradient": "from-zinc-900 via-slate-800 to-zinc-700",
+        "tracks": [
+            { "n": 1, "title": "Intolerance" },
+            { "n": 2, "title": "Prison Sex" },
+            { "n": 3, "title": "Sober" },
+            { "n": 4, "title": "Bottom" },
+            { "n": 5, "title": "Swamp Song" },
+            { "n": 6, "title": "Undertow" },
+            { "n": 7, "title": "4°" },
+            { "n": 8, "title": "Flood" }
+            ]
+        },
+        {
+        "id": "aenima",
+        "title": "Ænima",
+        "year": 1996,
+        "coverGradient": "from-slate-900 via-zinc-800 to-neutral-700",
+        "tracks": [
+            { "n": 1, "title": "Stinkfist" },
+            { "n": 2, "title": "Eulogy" },
+            { "n": 3, "title": "H." },
+            { "n": 4, "title": "Forty Six & 2" },
+            { "n": 5, "title": "Hooker with a Penis" },
+            { "n": 6, "title": "Ænema" },
+            { "n": 7, "title": "Third Eye" }
+            ]
+        },
+        {
+        "id": "lateralus",
+        "title": "Lateralus",
+        "year": 2001,
+        "coverGradient": "from-black via-zinc-800 to-zinc-700",
+        "tracks": [
+            { "n": 1, "title": "The Grudge" },
+            { "n": 2, "title": "The Patient" },
+            { "n": 3, "title": "Schism" },
+            { "n": 4, "title": "Parabol" },
+            { "n": 5, "title": "Parabola" },
+            { "n": 6, "title": "Lateralus" },
+            { "n": 7, "title": "Disposition/Reflection/Triad" }
+            ]
+        },
+        {
+        "id": "10000days",
+        "title": "10,000 Days",
+        "year": 2006,
+        "coverGradient": "from-stone-900 via-amber-700/20 to-stone-700",
+        "tracks": [
+            { "n": 1, "title": "Vicarious" },
+            { "n": 2, "title": "Jambi" },
+            { "n": 3, "title": "Wings for Marie (Pt 1)" },
+            { "n": 4, "title": "10,000 Days (Wings Pt 2)" },
+            { "n": 5, "title": "The Pot" },
+            { "n": 6, "title": "Right in Two" }
+            ]
+        },
+        {
+        "id": "fearinoculum",
+        "title": "Fear Inoculum",
+        "year": 2019,
+        "coverGradient": "from-stone-900 via-indigo-700/30 to-stone-700",
+        "tracks": [
+            { "n": 1, "title": "Fear Inoculum" },
+            { "n": 2, "title": "Pneuma" },
+            { "n": 3, "title": "Invincible" },
+            { "n": 4, "title": "Descending" },
+            { "n": 5, "title": "Culling Voices" },
+            { "n": 6, "title": "Chocolate Chip Trip" },
+            { "n": 7, "title": "7empest" }
+            ]
+        }
+    ]
+}
