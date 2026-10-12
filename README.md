@@ -1,12 +1,43 @@
-# React + Vite
+# Tool Fan Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fan-made educational website about Tool, built with React and Vite. The project demonstrates client-side routing, reusable components, and rendering content from local JSON data.
 
-Currently, two official plugins are available:
+## Features
+- Home, discography, and band member pages.
+- Album cards and a modal component.
+- Spotify search links.
+- Tailwind CSS styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Stack
+React 19, React Router 7, Vite 7, JavaScript, Tailwind CSS 3, ESLint.
 
-## Expanding the ESLint configuration
+## Run locally
+Use Node.js 22.12 or newer.
+```sh
+git clone https://github.com/Phonker131/tool-fan-page.git
+cd tool-fan-page
+npm ci
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Checks and build
+```sh
+npm run lint
+npm run build
+npm run preview
+```
+`npm ci`, `npm run lint`, and `npm run build` were checked locally. The GitHub Actions workflow repeats lint and build checks.
+
+## Project structure
+| Path | Purpose |
+| --- | --- |
+| `src/pages/` | Home, discography, and members |
+| `src/components/` | Shared interface components |
+| `src/utils/` | Data loading, covers, and Spotify links |
+| `public/db/` | Album and member JSON data |
+
+## Deployment notes
+A production host must serve `index.html` for client-side routes such as `/discography`. This is an unofficial educational fan project.
+
+## License
+See [LICENSE](LICENSE).
