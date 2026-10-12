@@ -16,7 +16,7 @@ Use Node.js 22.12 or newer.
 ```sh
 git clone https://github.com/Phonker131/tool-fan-page.git
 cd tool-fan-page
-npm install
+npm ci
 npm run dev
 ```
 
@@ -26,7 +26,7 @@ npm run lint
 npm run build
 npm run preview
 ```
-These are available project commands; this documentation update does not certify that they pass.
+`npm ci`, `npm run lint`, and `npm run build` were checked locally. The GitHub Actions workflow repeats lint and build checks.
 
 ## Project structure
 | Path | Purpose |
